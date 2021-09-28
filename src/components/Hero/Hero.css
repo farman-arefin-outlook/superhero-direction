@@ -1,0 +1,7 @@
+.hero-con{
+   border-right: 2px solid lightgrey;
+   margin: 5px;
+    padding: 5px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}
