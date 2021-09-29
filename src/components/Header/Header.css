@@ -4,6 +4,11 @@
     border: 2px solid rgb(17, 69, 211);
     padding: 30px;
     margin: 15px;
-    background-image: linear-gradient(rgb(35, 35, 218),rgb(8, 150, 150));
+    background-color: lightskyblue;
     border-radius: 5px;
+}
+
+.title-budget{
+    color: green;
+    font-weight: 900;
 }

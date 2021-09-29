@@ -1,7 +1,27 @@
 .hero-con{
-   border-right: 2px solid lightgrey;
-   margin: 5px;
-    padding: 5px;
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
+       background-color: lightgreen;
+       border: 2px solid lightgrey;
+       margin-right: 5px;
+       margin-left: 50px;
+       margin-bottom: 50px;
+       padding: 5px;
+       border-radius: 10px;
+       padding-bottom: 10px;
+       text-align: center;
+       justify-content: center;
+}
+.hero-con img{
+    width: 150px;
+    height: 150px;
+    border-radius: 150px;
+}
+
+.btn{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+    width: 150px;
+    height: 30px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
 }
